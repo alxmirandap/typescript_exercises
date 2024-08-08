@@ -24,4 +24,11 @@
 
 **Solution:** substrConcatAllWords.ts
 
+## Gray Code
+
+**Difficulty:** Medium
+
+**Reference:** https://leetcode.com/problems/gray-code/description/
+
+**Solution:** grayCodeMemoized.ts
 
