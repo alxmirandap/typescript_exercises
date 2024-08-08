@@ -2,3 +2,7 @@ This directory gathers a mix of code in typescript. In ./src, it covers mostly b
 `npm run test <spec file name and path>`
 
 In `src/leetcode` are some solutions to Leetcode problems. These need to be run with `tsx` and a helper script `run.sh` is provided to simplify this execution.
+
+To install `tsx`, you can run
+
+`npm install --global tsx`.
