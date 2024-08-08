@@ -16,3 +16,12 @@
 
 **Solution:** mergeKLists.ts
 
+## Substring with Concatenation of All Words
+
+**Difficulty:** Hard
+
+**Reference:** https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/
+
+**Solution:** substrConcatAllWords.ts
+
+
