@@ -7,3 +7,12 @@
 **Reference:** https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 **Solution:** median_2_sorted_arrays.ts
+
+## Merge K Sorted Lists
+
+**Difficulty:** Hard
+
+**Reference:** https://leetcode.com/problems/merge-k-sorted-lists/
+
+**Solution:** mergeKLists.ts
+
