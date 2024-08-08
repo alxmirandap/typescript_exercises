@@ -1,0 +1,17 @@
+{
+  "name": "typescript-exercises",
+  "version": "1.0.0",
+  "description": "A collection of exercises in Typescript, for simple Data Structures and Algorithms",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "ts-jest": "^29.2.2",
+    "ts-node": "^10.9.2"
+  }
+}
